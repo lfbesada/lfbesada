@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lourdes Fernández Besada</h1>
-<h3 align="center">I am a backend developer from Spain with expertise in Java. I am in love with design patterns and I enjoy working with open source.</h3>
+<h3 align="center">I am an experienced Java backend developer based in Spain passionate about web technologies. Expertise in building and deploying scalable, high-performance systems. I love collaborative environments and enjoy contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfbesada&label=Profile%20views&color=0e75b6&style=flat" alt="lfbesada" /> </p>
 
